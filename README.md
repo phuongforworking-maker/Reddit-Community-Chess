@@ -1,6 +1,6 @@
 # Reddit-Community-Chess
 > **An interactive chess experience where Reddit communities vote on moves together, featuring AI opponents, analyst systems, and real-time chat.**
-> **The game is still currently under development due to the incompatible systems used in the game, I look forward to give you guys more delightful experience in the near future**
+> **The game is still currently under development due to the incompatible systems used in the game, I look forward to give you guys more exciting experience in the near future**
 
 ## 🎮 **Live Demo**
 
